@@ -14,7 +14,7 @@ module RedminePortfolioManagement
                 plugin.settings[:default]
             end
         end
-
+        # Define o Atributo de Campo customizado para o Portfolio
         def portfolio_management_attribute
             custom_field(:portfolio_management_attribute)
         end
