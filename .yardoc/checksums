@@ -1,0 +1,3 @@
+app/helpers/portfolio_management_helper.rb 058cc2e2929062bc42f853a310b00f612ab5b6ea
+lib/redmine_portfolio_management/redmine.rb 731e3c6120d1d207b7c8f2f26566c0f45c0d5bcd
+app/controllers/portfolio_management_controller.rb 02f8440f1a5c539b674d2c4bdeb3e5c374564c95
